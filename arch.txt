@@ -1,0 +1,5 @@
+Semilla: 1275677506
+Habitacion de Entrada	3
+Baño	3
+Sala de musica	1
+Sotano	1
